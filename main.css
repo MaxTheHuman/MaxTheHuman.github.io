@@ -23,10 +23,10 @@ body{
     border: 1px solid gray;
     border-radius: 5px;
     opacity: 0.8;
-    color: rgb(0, 255, 138);
-    font-size: 38px;
+    color: rgb(0, 255, 235);
+    font-size: 33px;
     text-align: center;
-    font-family:cursive;
+    font-family:'Gloria Hallelujah', sans-serif;
     width: 80%;
     height: 70%;
     display: flex;

@@ -1,3 +1,2 @@
-# DemoLanding
-demo lending page of mine
-it's my first attempt to make a landing page
+# TributePage
+This is a tribute page of Chester Bennington, made for freeCodeCamp.

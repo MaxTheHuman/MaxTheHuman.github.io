@@ -1,0 +1,153 @@
+html {
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3em;
+}
+
+.surr {
+    display: flex;
+    justify-content: center;
+}
+
+
+.contCol {
+    width: 90%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.header {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    width: 85%;
+    border-radius: 5px;
+    background-color: rgba(175, 218, 255, 0.24);
+    padding: 8px;
+
+}
+
+.header a {
+    text-decoration: none;
+    background-color: rgb(175, 218, 255);
+    color: black;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.header a:hover {
+    background-color: aliceblue;
+    color: inherit;
+}
+
+.header a:visited, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu_elem {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 8px;
+    font-family: inherit;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+
+}
+
+
+.about {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 95%;
+}
+
+.img_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border:0px solid red;
+    margin-right: 10px;
+}
+
+.about img {
+    border:0px solid black;
+    border-radius: 90px;
+}
+
+.text_wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    border:0px solid #60ffff;
+    border-radius: 10px;
+}
+.end{
+    width: 70%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 0.6em;
+    text-align:right;
+}
+.pre-projects {
+    border:0px solid black;
+    position: relative;
+    right: 20%;
+    font-size: 0.5em;
+}
+.projects {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 85%;
+    border-radius: 5px;
+    background-color: rgba(175, 218, 255, 0.24);
+}
+
+.contact {
+    font-size: 0.8em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 85%;
+}
+
+.contact a {
+    font-family: 'Amatic SC';
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+.end a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.end a:hover {
+    color: black;
+}

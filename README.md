@@ -1,2 +1,2 @@
-# TributePage
-This is a tribute page of Chester Bennington, made for freeCodeCamp.
+# Portfolio Page
+This is a portfolio page, made for freeCodeCamp.

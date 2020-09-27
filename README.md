@@ -1,2 +1,2 @@
-# Portfolio Page
-This is a portfolio page, made for freeCodeCamp.
+# Portfolio Page Not In Use
+This is a example portfolio page, made for freeCodeCamp.
